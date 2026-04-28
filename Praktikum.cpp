@@ -37,3 +37,7 @@ int main() {
     nonElektronik.jumlah = 50;
     nonElektronik.kategori = "Furniture / Non-Elektronik";
     nonElektronik.tanggalProduksi = "01 Maret 2026";
+
+
+    cout << "DAFTAR INVENTARIS BARANG" << endl;
+    cout << "========================" << endl << endl;
