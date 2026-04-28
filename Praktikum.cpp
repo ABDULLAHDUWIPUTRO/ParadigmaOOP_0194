@@ -10,7 +10,7 @@ public:
     string kategori;
     string tanggalProduksi;
 
-    // Commit 5: Implementasi method untuk menampilkan data
+
     void tampilkanSpesifikasi() {
         cout << "=== Spesifikasi Barang ===" << endl;
         cout << "Nama Barang      : " << nama << endl;
@@ -20,3 +20,7 @@ public:
         cout << "--------------------------" << endl;
     }
 };
+
+
+int main() {
+  
