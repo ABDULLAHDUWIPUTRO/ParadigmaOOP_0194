@@ -15,3 +15,5 @@ class Mahasiswa
         cout << "NILAI: " << nilai << endl; 
     }
 };
+
+int main()
