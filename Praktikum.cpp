@@ -41,3 +41,6 @@ int main() {
 
     cout << "DAFTAR INVENTARIS BARANG" << endl;
     cout << "========================" << endl << endl;
+
+    elektronik.tampilkanSpesifikasi();
+    nonElektronik.tampilkanSpesifikasi();
