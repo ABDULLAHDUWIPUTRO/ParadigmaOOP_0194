@@ -44,3 +44,6 @@ int main() {
 
     elektronik.tampilkanSpesifikasi();
     nonElektronik.tampilkanSpesifikasi();
+
+    return 0;
+}
