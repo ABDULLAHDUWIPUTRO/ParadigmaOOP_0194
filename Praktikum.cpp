@@ -23,4 +23,10 @@ public:
 
 
 int main() {
-  
+    
+
+    Barang elektronik;
+    elektronik.nama = "Laptop Gaming";
+    elektronik.jumlah = 10;
+    elektronik.kategori = "Elektronik";
+    elektronik.tanggalProduksi = "15 April 2026";
