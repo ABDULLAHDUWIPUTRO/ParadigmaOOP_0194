@@ -30,3 +30,10 @@ int main() {
     elektronik.jumlah = 10;
     elektronik.kategori = "Elektronik";
     elektronik.tanggalProduksi = "15 April 2026";
+
+
+    Barang nonElektronik;
+    nonElektronik.nama = "Meja Belajar";
+    nonElektronik.jumlah = 50;
+    nonElektronik.kategori = "Furniture / Non-Elektronik";
+    nonElektronik.tanggalProduksi = "01 Maret 2026";
