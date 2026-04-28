@@ -9,3 +9,7 @@ public:
     int jumlah;
     string kategori;
     string tanggalProduksi;
+
+
+    void tampilkanSpesifikasi() {
+   
