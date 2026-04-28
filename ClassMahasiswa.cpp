@@ -23,3 +23,6 @@ int main()
     mhs.NIM = 2024;
     mhs.nama = "sule";
     mhs.nilai = 75.5;
+
+    mhs.printData();
+};
